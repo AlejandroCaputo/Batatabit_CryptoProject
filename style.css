@@ -99,7 +99,7 @@ color: var(--warm-black);
     width: 13px;
     height: 8px;
     margin-left: 10px;
-    background-image: url('./assets/icons/down-arrow.svg');
+    background-image: url('assets/icons/down-arrow.svg');
 }
 
 main{
@@ -238,7 +238,7 @@ main{
     background-position:center ;
     background-size: cover;
     background-repeat: no-repeat ;
-    background-image: url('/assets/icons/trending-up.svg');
+    background-image: url('assets/icons/trending-up.svg');
 }
 
 .red {
@@ -249,7 +249,7 @@ main{
     background-position:center ;
     background-size: cover;
     background-repeat: no-repeat ;
-    background-image: url('/assets/icons/trending-down.svg');
+    background-image: url('assets/icons/trending-down.svg');
 }
 
 .currency-table-date{
@@ -287,7 +287,7 @@ main{
     height: 25px;
     left: calc(50% - 20px);
     top: -10px;
-    background-image: url('/assets/icons/batata.svg');
+    background-image: url('assets/icons/batata.svg');
 }
 
 .product-detail-title{
@@ -338,19 +338,19 @@ main{
 }
 
 .watch {
-    background-image: url('/assets/icons/clock.svg');
+    background-image: url('assets/icons/clock.svg');
 }
 
 .eye{
-    background-image: url('/assets/icons/eye.svg');
+    background-image: url('assets/icons/eye.svg');
 }
 
 .money{
-    background-image: url('/assets/icons/dollar-sign.svg');
+    background-image: url('assets/icons/dollar-sign.svg');
 }
 
 .check{
-    background-image: url('/assets/icons/check-circle.svg');
+    background-image: url('assets/icons/check-circle.svg');
 }
 
 .product-detail--card .product-card-title{
@@ -512,7 +512,7 @@ main{
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url('/assets/icons/orange-right-arrow.svg');
+    background-image: url('assets/icons/orange-right-arrow.svg');
     vertical-align: text-bottom;
 }
 
