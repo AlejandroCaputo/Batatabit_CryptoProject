@@ -338,7 +338,7 @@ main{
 }
 
 .watch {
-    background-image: url('/Batatabit_CryptoProject/assets/icons/clock.svg');
+    background-image: url('assets/icons/clock.svg');
 }
 
 .eye{
@@ -421,10 +421,11 @@ main{
 
 .plans-container-slider{
     display: flex;
-    height: 316px;
+    height: auto;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity ;
+    padding-bottom: 10px;
 }
 
 .plans-container-card{
